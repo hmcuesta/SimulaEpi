@@ -1,0 +1,14 @@
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\bin\Release\SimulaEpi.exe.config
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\bin\Release\SimulaEpi.exe
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\bin\Release\SimulaEpi.pdb
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\obj\x86\Release\SimulaEpi.Form1.resources
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\obj\x86\Release\SimulaEpi.InputWindow.resources
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\obj\x86\Release\SimulaEpi.Properties.Resources.resources
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\obj\x86\Release\SimulaEpi.exe
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\obj\x86\Release\SimulaEpi.pdb
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\obj\x86\Release\SimulaEpi.Form2.resources
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\obj\x86\Release\GenerateResource.write.1.tlog

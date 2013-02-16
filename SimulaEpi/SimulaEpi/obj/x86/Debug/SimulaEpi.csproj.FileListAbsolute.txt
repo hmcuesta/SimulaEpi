@@ -1,0 +1,23 @@
+C:\Users\Smile\AppData\Local\Temporary Projects\SimulaEpi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Smile\AppData\Local\Temporary Projects\SimulaEpi\obj\x86\Debug\SimulaEpi.Form1.resources
+C:\Users\Smile\AppData\Local\Temporary Projects\SimulaEpi\obj\x86\Debug\SimulaEpi.Properties.Resources.resources
+C:\Users\Smile\AppData\Local\Temporary Projects\SimulaEpi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Smile\AppData\Local\Temporary Projects\SimulaEpi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Smile\AppData\Local\Temporary Projects\SimulaEpi\bin\Debug\SimulaEpi.exe
+C:\Users\Smile\AppData\Local\Temporary Projects\SimulaEpi\bin\Debug\SimulaEpi.pdb
+C:\Users\Smile\AppData\Local\Temporary Projects\SimulaEpi\obj\x86\Debug\SimulaEpi.exe
+C:\Users\Smile\AppData\Local\Temporary Projects\SimulaEpi\obj\x86\Debug\SimulaEpi.pdb
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\obj\x86\Debug\SimulaEpi.exe
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\obj\x86\Debug\SimulaEpi.pdb
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\bin\Debug\SimulaEpi.exe
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\bin\Debug\SimulaEpi.pdb
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\obj\x86\Debug\SimulaEpi.Form1.resources
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\obj\x86\Debug\SimulaEpi.Properties.Resources.resources
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\obj\x86\Debug\SimulaEpi.InputWindow.resources
+C:\Users\Smile\Documents\Visual Studio 2010\Projects\SimulaEpi\SimulaEpi\bin\Debug\SimulaEpi.exe.config
+C:\Users\Smile\Documents\Visual Studio 2010\Projects\SimulaEpi\SimulaEpi\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Smile\Documents\Visual Studio 2010\Projects\SimulaEpi\SimulaEpi\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Smile\documents\visual studio 2010\Projects\SimulaEpi\SimulaEpi\obj\x86\Debug\SimulaEpi.Form2.resources
